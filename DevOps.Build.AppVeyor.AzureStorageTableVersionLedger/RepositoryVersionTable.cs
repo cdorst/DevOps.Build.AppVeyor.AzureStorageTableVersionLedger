@@ -20,8 +20,6 @@ namespace DevOps.Build.AppVeyor.AzureStorageTableVersionLedger
         }
 
         /// <summary>Current version of repository</summary>
-        public string Version { get;
-        set;
-        };
+        public string Version { get; set; }
     }
 }
