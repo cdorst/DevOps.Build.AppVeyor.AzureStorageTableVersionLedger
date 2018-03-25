@@ -23,11 +23,12 @@ WindowsAzure.Storage | [![NuGet package status](https://img.shields.io/nuget/v/W
 
 ## Dependents
 
-The project below uses this repository as a direct dependency.
+The projects below use this repository as a direct dependency.
 
 Name | Status
 ---- | ------
 [DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder](https://github.com/CDorst./DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-azurestoragetableversionledg.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-azurestoragetableversionledg) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder)
+[DevOps.Build.AppVeyor.GetRepositoryVersionRecord](https://github.com/CDorst./DevOps.Build.AppVeyor.GetRepositoryVersionRecord) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-getrepositoryversionrecord.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-getrepositoryversionrecord) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.GetRepositoryVersionRecord.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.GetRepositoryVersionRecord)
 
 ## NuGet
 
@@ -36,7 +37,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.0
+1.0.1
 
 ## Metaproject
 
