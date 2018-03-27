@@ -19,7 +19,7 @@ Name | Description
 
 Name | Status
 ---- | ------
-WindowsAzure.Storage | [![NuGet package status](https://img.shields.io/nuget/v/WindowsAzure.Storage.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/WindowsAzure.Storage)
+[CDorst.Azure.Storage.Metapackage](https://github.com/CDorst/Azure.Storage.Metapackage) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/azure-storage-metapackage.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/azure-storage-metapackage) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Azure.Storage.Metapackage.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Azure.Storage.Metapackage)
 
 ## Dependents
 
@@ -37,7 +37,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.6
+1.0.7
 
 ## Metaproject
 
