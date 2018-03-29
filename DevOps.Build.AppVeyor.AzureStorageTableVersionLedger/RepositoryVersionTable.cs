@@ -16,7 +16,7 @@ namespace DevOps.Build.AppVeyor.AzureStorageTableVersionLedger
         {
             PartitionKey = accountName;
             RowKey = repositoryName;
-            Version = version;;
+            Version = version;
         }
 
         /// <summary>Current version of repository</summary>
